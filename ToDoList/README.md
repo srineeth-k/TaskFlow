@@ -27,4 +27,9 @@ TaskFlow is a simple and elegant **Todo List application** built using **React +
 ---
 
 ## 📂 Project Structure
-
+src/
+│── components/
+│ └── Navbar.jsx
+│── App.jsx
+│── App.css
+│── main.jsx
